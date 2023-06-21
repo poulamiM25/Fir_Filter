@@ -1,1 +1,0 @@
-16_bit_fixed_point_case_1 
